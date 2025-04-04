@@ -1,3 +1,5 @@
+package strategy;
+
 public class ConcreteStrategyOne implements StrategyInterface {
   private int number;
 
