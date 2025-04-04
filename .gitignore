@@ -7,5 +7,9 @@
 /dataSources/
 /dataSources.local.xml
 .DS_Store
-.idea
-/out
+# Ignore IntelliJ IDEA config files
+/.idea/
+# Ignore compiled output
+/out/
+# Ignore other generated files
+*.iml
